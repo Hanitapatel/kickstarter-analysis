@@ -1,7 +1,7 @@
 # kickstarter-analysis
 ## Overview of Project
 
-Purpose of this analysis to help Loiuse to raise fund on her play Fever which came close to it's fundaraising goal.
+Purpose of this analysis to help Loiuse to raise fund on her play *Fever* which came close to it's fundaraising goal.
 By using the Kickstarter dataset, we will analysis data and present them to Louise to see if there are any specific
 factors that she can use to make her campain successful.    
           
