@@ -14,8 +14,8 @@ To figure out the percentage of a campaign funding I added new column named Perc
 Added Average Donations column to help Louise set up her incentives by looking at the amount pledged previously by people.
 Added two more columns to split parent category and subcategory from category and subcategory column by using the text to column option.
 
-Creat pivot tabls to summerise and visulize data better. Created piviot table to see how all the fundraising category perfom by adding pivot table
-in category statestic tab. This pivot table help summrise outcomes by category and by looking at the table we can say that theater has 
+Creat pivot tabls to summerise and visulize data better. Created piviot table into category statestic tab to see how all the fundraising category perfom. 
+This pivot table help summrise outcomes by category and by looking at the table we can say that theater has 
 most amout of successful kickstarters and Journalism has least
 amout of kickstarters. We can filter it by country if we like to visualize outcomes by countrie.  
         
