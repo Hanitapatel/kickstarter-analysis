@@ -13,23 +13,29 @@ and highlight each outcome with different colors.
 To figure out the percentage of a campaign funding I added new column named Percentage Funded.
 Added Average Donations column to help Louise set up her incentives by looking at the amount pledged previously by people.
 Added two more columns to split parent category and subcategory from category and subcategory column by using the text to column option.
+![Text to Column](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/Text%20to%20column.png)
 
 Creat pivot tabls to summerise and visulize data better. Created piviot table into category statestic tab to see how all the fundraising category perfom. 
 This pivot table help summrise outcomes by category and by looking at the table we can say that theater has 
 most amout of successful kickstarters and Journalism has least
 amout of kickstarters. We can filter it by country if we like to visualize outcomes by countrie.  
+![Parent category outcome pivot](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/parent%20category%20outcome%20Pivot.png)
         
  Adding chart in pivot table provided much better view  analysing outcomes by each category.
+![Parent category outcome chart](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/parent%20Category%20outcome%20chart.png)
                
 Added two more columns Date created conversion and date Ended Conversion to convert the launched date and 
          deadline date from Unix timestamps to readable format which will help Louis to plan her campaign timeline by comparing
          length of campaign in dataset.
+![Unix Timestamps](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/Unix%20timestamps.png)
          
  ## Analysis of Outcome based on Launch Date 
  
 Analysis based on Launch Date will help Louise to consider the time and length of her campaign. To present the 
           outcome by Launch Date I created the Pivot table which contain outcomes, Date Created Conversion, Parent category and
           years columns. Adding Line chart help Louise visualizes trends.
+![outcome by launch date pivot](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/outcome%20by%20launch%20date%20pivot.png)
+![outcome by launch date chart](https://github.com/Hanitapatel/kickstarter-analysis/blob/main/Analysis_Images/Outcome%20by%20launch%20date%20chart.png)
           
 From the chart above we can see that most successful campaigns were in May and month of December wasn’t a good
           month for campaign. Month of January, June, July and October has same number of failed campaigns, so those months were
